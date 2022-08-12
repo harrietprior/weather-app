@@ -19,6 +19,17 @@
   font-style: oblique;
 }
 
+.repo {
+  color: #d62e64;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 200;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
+
 body {
   background-image: url("https://cdn-icons-png.flaticon.com/512/1113/1113892.png");
   background-repeat: no-repeat;
